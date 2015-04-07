@@ -5,18 +5,18 @@
 <title>McDonalds India</title>
 </head>
 <style>
-#wrapper
+#menu-wrapper
 {
 
 	overflow:auto;
 	
 }
-#left
+#menu-left
 {
 	float:left;
 
 }
-#right
+#menu-right
 {
 	
 	float:right;
@@ -30,11 +30,11 @@
 <body>
 
 
-<div id="wrapper">
-    	<div id="left">
+<div id="menu-wrapper">
+    	<div id="menu-left">
     	        <img src="images/logo.png"></img>
         </div>
-        <div id="right">
+        <div id="menu-right">
 				
                 <font size=2>
                     ABOUT US &nbsp;

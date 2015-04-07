@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Mc Donalds India</title>
+<title>McDonalds India</title>
 </head>
 <style>
 #wrapper

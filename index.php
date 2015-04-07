@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Buns &amp; Rolls</title>
+<title>McDonald's India</title>
 <style>
 body
 {
@@ -28,7 +28,10 @@ margin:0;
 
     <div id="container" >
 
-        <?php require 'menu-bar.php'; ?>
+<?php require 'menu-bar.php'; ?>
+<?php require 'nav-bar.php'; ?>
+<?php require 'image-slider.php'; ?>
+<?php require 'page-links.php'; ?>
     </div><!--container-->
 
 

@@ -10,6 +10,7 @@ background-image:url(images/bg-red.jpg);
 background-repeat:no-repeat;
 padding:0;
 margin:0;	
+overflow:scroll;
 }
 
 #container
@@ -19,7 +20,7 @@ margin:0;
 	margin-top:20px;
 	margin-bottom:20px;
 	
-	background-color:rgba(192,192,192,0.2);
+	background-color:rgba(192,192,192,0);
 }
 </style>
 </head>
